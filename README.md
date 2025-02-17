@@ -1,6 +1,11 @@
-## Hi there 👋
+<h1 align="left">Mikhail Deravchuk (@deravchukma)</h1>
+
+- 📩 Email: **deravchukma@gmail.com**
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=deravchukma&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&layout=compact" alt="deravchukma" /></p>
 
 <!--
+## Hi there 👋
 **deravchukma/deravchukma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
