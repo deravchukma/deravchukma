@@ -6,7 +6,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deravchukma&theme=dark)](https://git.io/streak-stats)
 
 ### 📈 GitHub Activity Graph:
-![GitHub activity graph](https://activity-graph.herokuapp.com/graph?deravchukma
+[![Deravchukma GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deravchukma&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=deravchukma&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&layout=compact" alt="deravchukma" /></p>
 
