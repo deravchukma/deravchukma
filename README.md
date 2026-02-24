@@ -2,9 +2,26 @@
 
 - 📩 Email: **deravchukma@gmail.com**
 
-&nbsp;<img align="left" src="https://github.com/deravchukma/deravchukma/blob/main/github-metrics.svg" alt="deravchukma" />
+<table>
+</td></tr>
+  <tr><th><img src="https://github.com/deravchukma/deravchukma/blob/main/github-metrics.svg" align="left"></th><td><p><img src="https://github.com/deravchukma/deravchukma/blob/main/metrics.plugin.languages.indepth.svg" align="left"></p>
+</td></tr>
+  <tr>
+    <td colspan="2" align="center">
+      <details><summary>Current year</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.calendar.svg" alt=""></img></details>
+      <details open><summary>Full history</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.calendar.full.svg" alt=""></img></details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+</table>
 <br>
-&nbsp;<img align="left" src="https://github.com/deravchukma/deravchukma/blob/main/metrics.plugin.languages.indepth.svg" alt="deravchukma" />
+<img src="https://github.com/deravchukma/deravchukma/blob/main/github-metrics.svg" align="left">
+<br>
+<img src="https://github.com/deravchukma/deravchukma/blob/main/metrics.plugin.languages.indepth.svg" align="left">
+<br>
+<p>&nbsp;<img align="left" src="https://github.com/deravchukma/deravchukma/blob/main/github-metrics.svg" alt="deravchukma" /></p>
+<br>
+<p>&nbsp;<img align="left" src="https://github.com/deravchukma/deravchukma/blob/main/metrics.plugin.languages.indepth.svg" alt="deravchukma" /></p>
 <br>
 <details><summary>Current year</summary><img src="https://github.com/deravchukma/deravchukma/blob/main/metrics.plugin.calendar.svg" alt=""></img></details>
 <br>
