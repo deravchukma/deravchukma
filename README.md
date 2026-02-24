@@ -2,7 +2,10 @@
 
 - 📩 Email: **deravchukma@gmail.com**
 
-<p>&nbsp;<img align="left" src="https://github.com/deravchukma/deravchukma/blob/main/github-metrics.svg" alt="deravchukma" /></p> <p>&nbsp;<img align="right" src="https://github.com/deravchukma/deravchukma/blob/main/metrics.plugin.languages.indepth.svg" alt="deravchukma" /></p>
+<p>&nbsp;<img align="left" src="https://github.com/deravchukma/deravchukma/blob/main/github-metrics.svg" alt="deravchukma" /></p>
+
+<p>&nbsp;<img align="left" src="https://github.com/deravchukma/deravchukma/blob/main/metrics.plugin.languages.indepth.svg" alt="deravchukma" /></p>
+ 
 <details><summary>Current year</summary><img src="https://github.com/deravchukma/deravchukma/blob/main/metrics.plugin.calendar.svg" alt=""></img></details>
 <details open><summary>Full history</summary><img src="https://github.com/deravchukma/deravchukma/blob/main/metrics.plugin.calendar.full.svg" alt=""></img></details>
 
