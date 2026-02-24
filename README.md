@@ -2,14 +2,6 @@
 
 - 📩 Email: **deravchukma@gmail.com**
 
-### 📈 GitHub Activity Graph:
-[![Deravchukma GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deravchukma&theme=github-light)](https://github.com/deravchukma/github-readme-activity-graph)
-
-### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deravchukma&theme=dark)](https://git.io/streak-stats)
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=deravchukma&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&layout=compact" alt="deravchukma" /></p>
-
 <!--
 ## Hi there 👋
 **deravchukma/deravchukma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
