@@ -8,24 +8,13 @@
 </td></tr>
   <tr>
     <td colspan="2" align="center">
-      <details><summary>Current year</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.calendar.svg" alt=""></img></details>
+      <summary>Current year</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.calendar.svg" alt=""></img>
       <details open><summary>Full history</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.calendar.full.svg" alt=""></img></details>
       <img width="900" height="1" alt="">
     </td>
   </tr>
 </table>
 <br>
-<img src="https://github.com/deravchukma/deravchukma/blob/main/github-metrics.svg" align="left">
-<br>
-<img src="https://github.com/deravchukma/deravchukma/blob/main/metrics.plugin.languages.indepth.svg" align="left">
-<br>
-<p>&nbsp;<img align="left" src="https://github.com/deravchukma/deravchukma/blob/main/github-metrics.svg" alt="deravchukma" /></p>
-<br>
-<p>&nbsp;<img align="left" src="https://github.com/deravchukma/deravchukma/blob/main/metrics.plugin.languages.indepth.svg" alt="deravchukma" /></p>
-<br>
-<details><summary>Current year</summary><img src="https://github.com/deravchukma/deravchukma/blob/main/metrics.plugin.calendar.svg" alt=""></img></details>
-<br>
-<details open><summary>Full history</summary><img src="https://github.com/deravchukma/deravchukma/blob/main/metrics.plugin.calendar.full.svg" alt=""></img></details>
 
 <!--
 ## Hi there 👋
