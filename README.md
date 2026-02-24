@@ -2,7 +2,8 @@
 
 - 📩 Email: **deravchukma@gmail.com**
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=deravchukma&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&layout=compact" alt="deravchukma" /></p>
+<p>&nbsp;<img align="left" src="https://github.com/deravchukma/deravchukma/blob/main/metrics.plugin.calendar.svg" alt="deravchukma" /></p>
+
 
 <!--
 ## Hi there 👋
