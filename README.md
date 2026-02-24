@@ -3,7 +3,8 @@
 - 📩 Email: **deravchukma@gmail.com**
 
 ### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deravchukma&theme=dark)](https://git.io/streak-stats)
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=deravchukma&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&layout=compact" alt="deravchukma" /></p>
 
 <!--
