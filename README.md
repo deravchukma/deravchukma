@@ -8,8 +8,8 @@
 </td></tr>
   <tr>
     <td colspan="2" align="center">
-      <summary>Current year</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.calendar.svg" alt=""></img>
-      <details open><summary>Full history</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.calendar.full.svg" alt=""></img></details>
+      <summary>Current year</summary><img src="metrics.plugin.calendar.svg" alt="">
+      <details open><summary>Full history</summary><img src="metrics.plugin.calendar.full.svg" alt=""></details>
       <img width="900" height="1" alt="">
     </td>
   </tr>
