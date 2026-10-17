@@ -4,7 +4,7 @@
 
 <table>
 </td></tr>
-  <tr><th><img src="https://github.com/deravchukma/deravchukma/blob/main/github-metrics.svg" align="left"></th><td><p><img src="https://github.com/deravchukma/deravchukma/blob/main/metrics.plugin.languages.indepth.svg" align="left"></p>
+  <tr><th><img src="github-metrics.svg" align="left"></th><td><p><img src="metrics.plugin.languages.indepth.svg" align="left"></p>
 </td></tr>
   <tr>
     <td colspan="2" align="center">
