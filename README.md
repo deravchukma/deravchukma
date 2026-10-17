@@ -3,9 +3,7 @@
 - 📩 Email: **deravchukma@gmail.com**
 
 <table>
-</td></tr>
-  <tr><th><img src="github-metrics.svg" align="left"></th><td><p><img src="metrics.plugin.languages.indepth.svg" align="left"></p>
-</td></tr>
+  <tr><th><img src="github-metrics.svg" align="left"></th><td><p><img src="metrics.plugin.languages.indepth.svg" align="left"></p></td></tr>
   <tr>
     <td colspan="2" align="center">
       <summary>Current year</summary><img src="metrics.plugin.calendar.svg" alt="">
